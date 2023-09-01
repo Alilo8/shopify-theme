@@ -1,4 +1,14 @@
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "float-ver":{
+      "type": "float-ver"
+    },
+    "float-hor":{
+      "type": "float-hor"
+    }
+  },
+  "order": [
+    "float-ver",
+    "float-hor"
+  ]
 }
